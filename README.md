@@ -12,11 +12,10 @@ There are a few things to keep in mind before opening the apk file:
 1. It's written in Java 
 2. Minimmum RAM it takes is 50MB
 3. the projects name is com.polymorph.exton 
-4. Color combination picked from Dribble
-5. Theme colour picked from material.io
-6. App uses firebase to store and host the contents of the app
-7. Minimmum SDK is 22
-8. permissions to access internet and files
+4. Theme colour picked from material.io
+5. App uses firebase to store and host the contents of the app
+6. Minimmum SDK is 22
+7. permissions to access internet and files
 
 This apk file cannot be used without permission.
 
